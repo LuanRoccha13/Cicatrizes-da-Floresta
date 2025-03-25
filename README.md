@@ -31,7 +31,7 @@ Ao desvendar enigmas e enfrentar criaturas sobrenaturais, você descobrirá que 
 | Área      | Ferramentas                     |
 |-----------|--------------------------------|
 | **Frontend** | HTML5, CSS3, JavaScript Vanilla |
-| **Design** | Canva, Pixel Art (opcional)    |
+| **Design** | Leonardo.AI    |
 | **Hosting** | GitHub Pages                  |
 
 ## 🌲 Lore do Mundo  
