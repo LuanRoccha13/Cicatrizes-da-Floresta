@@ -102,7 +102,10 @@ function resetGame() {
 // Função principal para atualizar o jogo
 function updateGame() {
     // Atualiza o background conforme a fase
-    if (currentPhase <= FIRST_PART_END) {
+    if (currentPhase === 0) {
+        setBackgroundImage('CapaJogo.webp');
+    }
+    else if (currentPhase <= FIRST_PART_END) {
         setBackgroundImage('Floresta.jpeg');
     } else if (currentPhase <= SECOND_PART_END) {
         setBackgroundImage('Rio.jpeg');
