@@ -105,7 +105,7 @@ function updateGame() {
     if (currentPhase === 0) {
         setBackgroundImage('CapaJogo.webp');
     }
-    else if (currentPhase <= FIRST_PART_END) {
+    else if (currentPhase > 0 && currentPhase <= FIRST_PART_END) {
         setBackgroundImage('Floresta.jpeg');
     } else if (currentPhase <= SECOND_PART_END) {
         setBackgroundImage('Rio.jpeg');
