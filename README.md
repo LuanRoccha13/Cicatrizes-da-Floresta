@@ -14,7 +14,7 @@ Ao desvendar enigmas e enfrentar criaturas sobrenaturais, você descobrirá que 
 - ⚔️ **3 finais únicos** baseados em suas ações  
 - 🎭 **Personagem misterioso**: O Guardião das Sombras  
 
-## 🚀 Como Jogar (Acesse como-jogar.md)
+## 🚀 Como Jogar (Acesse [como-jogar.md](docs/como-jogar.md))
 1. Clone o repositório:  
    ```bash
    git clone https://github.com/LuanRoccha13/Cicatrizes-da-Floresta.git
