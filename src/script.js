@@ -11,7 +11,7 @@ const SECOND_PART_END = 28; // Final do rio
 function preloadImages() {
     const images = ['Floresta.jpeg', 'Rio.jpeg', 'Guardião.jpeg'];
     images.forEach(img => {
-        new Image().src = `images/${img}`;
+        new Image().src = `assets/images/${img}`;
     });
 }
 preloadImages();
@@ -103,14 +103,14 @@ function resetGame() {
 function updateGame() {
     // Atualiza o background conforme a fase
     if (currentPhase === 0) {
-        setBackgroundImage('assets/images/CapaJogo.webp');
+        setBackgroundImage('CapaJogo.webp');
     }
     else if (currentPhase > 0 && currentPhase <= FIRST_PART_END) {
-        setBackgroundImage('assets/images/Floresta.jpeg');
+        setBackgroundImage('Floresta.jpeg');
     } else if (currentPhase <= SECOND_PART_END) {
-        setBackgroundImage('assets/images/Rio.jpeg');
+        setBackgroundImage('Rio.jpeg');
     } else {
-        setBackgroundImage('assets/images/Guardião.jpeg');
+        setBackgroundImage('Guardião.jpeg');
     }
     const phase = gameData[currentPhase];
     document.getElementById("narrative").textContent = phase.text;
