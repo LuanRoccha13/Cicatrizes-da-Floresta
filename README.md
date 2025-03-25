@@ -2,7 +2,7 @@
 *"Cada escolha deixa uma marca. Algumas cicatrizes nunca curam."*  
 
 ## 📌 Capa do Jogo  
-*(Adicione uma imagem de preview do jogo aqui.)*  
+![Capa do Jogo](assets/images/CapaJogo.webp)
 
 ## 🎮 Sobre o Jogo  
 **Cicatrizes da Floresta** é um jogo de escolhas narrativas onde suas decisões moldam não apenas o destino do personagem, mas também o próprio ambiente.  
