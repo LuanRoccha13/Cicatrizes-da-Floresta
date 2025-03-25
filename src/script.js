@@ -103,14 +103,14 @@ function resetGame() {
 function updateGame() {
     // Atualiza o background conforme a fase
     if (currentPhase === 0) {
-        setBackgroundImage('CapaJogo.webp');
+        setBackgroundImage('assets/images/CapaJogo.webp');
     }
     else if (currentPhase > 0 && currentPhase <= FIRST_PART_END) {
-        setBackgroundImage('Floresta.jpeg');
+        setBackgroundImage('assets/images/Floresta.jpeg');
     } else if (currentPhase <= SECOND_PART_END) {
-        setBackgroundImage('Rio.jpeg');
+        setBackgroundImage('assets/images/Rio.jpeg');
     } else {
-        setBackgroundImage('Guardião.jpeg');
+        setBackgroundImage('assets/images/Guardião.jpeg');
     }
     const phase = gameData[currentPhase];
     document.getElementById("narrative").textContent = phase.text;
