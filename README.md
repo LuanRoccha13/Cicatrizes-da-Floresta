@@ -17,7 +17,7 @@ Ao desvendar enigmas e enfrentar criaturas sobrenaturais, você descobrirá que 
 ## 🚀 Como Jogar (Acesse como-jogar.md)
 1. Clone o repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/cicatrizes-da-floresta.git
+   git clone https://github.com/LuanRoccha13/Cicatrizes-da-Floresta.git
    ```
 2. Abra `index.html` no navegador  
 3. Escolha sabiamente – cada decisão afeta o desfecho  
@@ -86,7 +86,7 @@ Este projeto está sob a licença **MIT** - veja o arquivo `LICENSE` para detalh
 - **Inspiração**: Jogos como *The Witcher 3* e *Kentucky Route Zero*  
 
 ## 🎲 Jogue Online  
-Acesse a demo: [https://seu-usuario.github.io/cicatrizes-da-floresta](https://seu-usuario.github.io/cicatrizes-da-floresta)  
+Acesse a demo: [https://LuanRoccha13.github.io/cicatrizes-da-floresta](https://LuanRoccha13.github.io/cicatrizes-da-floresta)  
 
 🔮 *"A floresta observa. A floresta lembra."*  
 
