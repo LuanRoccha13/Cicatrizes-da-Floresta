@@ -11,7 +11,7 @@ const SECOND_PART_END = 28; // Final do rio
 function preloadImages() {
     const images = ['Floresta.jpeg', 'Rio.jpeg', 'Guardião.jpeg'];
     images.forEach(img => {
-        new Image().src = `images/${img}`;
+        new Image().src = `assets/images/${img}`;
     });
 }
 preloadImages();
