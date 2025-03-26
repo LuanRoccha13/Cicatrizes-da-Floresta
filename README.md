@@ -90,5 +90,4 @@ Acesse a [demo](https://luanroccha13.github.io/Cicatrizes-da-Floresta/)
 
 🔮 *"A floresta observa. A floresta lembra."*  
 
----  
-💡 **Dica:** Adicione um **GIF de gameplay** após a capa para engajar mais usuários!  
+---    
