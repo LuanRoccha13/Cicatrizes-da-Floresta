@@ -18,7 +18,7 @@ preloadImages();
 
 // Função para definir imagem de fundo
 function setBackgroundImage(imageName) {
-    document.body.style.backgroundImage = `url('images/${imageName}')`;
+    document.body.style.backgroundImage = `url('assets/images/${imageName}')`;
 }
 
 // Função para buscar um enigma em português
