@@ -47,6 +47,7 @@ A Floresta de Vedargh não é um lugar comum. Ela cresce a partir das emoções 
 /cicatrizes-da-floresta
 ├── /assets                 # Contém imagens e outros arquivos estáticos
 │   └── /images             # Imagens usadas no jogo
+│       ├── CapaJogo.webp
 │       ├── Floresta.jpeg
 │       ├── Guardião.jpeg
 │       └── Rio.jpeg
