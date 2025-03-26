@@ -86,7 +86,7 @@ Este projeto está sob a licença **MIT** - veja o arquivo `LICENSE` para detalh
 - **Inspiração**: Jogos como *The Witcher 3* e *Kentucky Route Zero*  
 
 ## 🎲 Jogue Online  
-Acesse a demo: https://luanroccha13.github.io/Cicatrizes-da-Floresta/ 
+Acesse a [demo](https://luanroccha13.github.io/Cicatrizes-da-Floresta/) 
 
 🔮 *"A floresta observa. A floresta lembra."*  
 
